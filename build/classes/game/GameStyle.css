@@ -1,0 +1,12 @@
+.game-pane {
+    -fx-background-image:  url('../resources/in-game-bg.png');
+    /*-fx-background: linear-gradient(45deg, rgba(0,185,205,1) 0%, rgba(0,113,158,1) 84%, rgba(0,113,158,1) 100%);*/
+    -fx-background-position: center;
+    -fx-background-size: cover;
+}
+
+.game-countdown {
+    -fx-font-family: 'Kongtext';
+    -fx-font-size: 14px;
+    src: url('../resources/Font/kongtext.ttf')
+}
